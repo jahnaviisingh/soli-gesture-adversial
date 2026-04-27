@@ -130,8 +130,8 @@ Pre-trained model weights (best fold results: Fold 1 = 87.71%, Fold 2 = 80.15%):
 
 | File | Fold | Test Accuracy | Link |
 |------|------|---------------|------|
-| `best_model_fold1.pth` | Fold 1 (train: 2,3,5,6,8 / test: 9,10,11,12,13) | **87.71%** | [Download](YOUR_GOOGLE_DRIVE_LINK_FOLD1) |
-| `best_model_fold2.pth` | Fold 2 (train: 9,10,11,12,13 / test: 2,3,5,6,8) | **80.15%** | [Download](YOUR_GOOGLE_DRIVE_LINK_FOLD2) |
+| `best_model_fold1.pth` | Fold 1 (train: 2,3,5,6,8 / test: 9,10,11,12,13) | **87.71%** | [Download](https://drive.google.com/file/d/1BcDEpPFBeizxsvGOj0pD5ZtIn2v96Ggr/view?usp=sharing) |
+| `best_model_fold2.pth` | Fold 2 (train: 9,10,11,12,13 / test: 2,3,5,6,8) | **80.15%** | [Download](https://drive.google.com/file/d/1ePhKtJkygKwGbsm3rsGPT-5aidhNQloC/view?usp=sharing) |
 
 > Replace `YOUR_GOOGLE_DRIVE_LINK_FOLD1` and `YOUR_GOOGLE_DRIVE_LINK_FOLD2` with your actual Google Drive shareable links.
 
